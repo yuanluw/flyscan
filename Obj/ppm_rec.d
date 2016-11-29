@@ -1,0 +1,12 @@
+.\obj\ppm_rec.o: App\PPM_Rec.c
+.\obj\ppm_rec.o: App\PPM_REC.h
+.\obj\ppm_rec.o: App\mygpio.h
+.\obj\ppm_rec.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\ppm_rec.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\ppm_rec.o: ..\Project\inc/hw_types.h
+.\obj\ppm_rec.o: ..\Project\driverlib/gpio.h
+.\obj\ppm_rec.o: ..\Project\driverlib/sysctl.h
+.\obj\ppm_rec.o: ..\Project\driverlib/timer.h
+.\obj\ppm_rec.o: ..\Project\driverlib/interrupt.h
+.\obj\ppm_rec.o: ..\Project\inc/hw_memmap.h
+.\obj\ppm_rec.o: ..\Project\driverlib/fpu.h

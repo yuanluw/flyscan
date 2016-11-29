@@ -1,0 +1,12 @@
+.\obj\can.o: driverlib\can.c
+.\obj\can.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\can.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\can.o: ..\Project\inc/hw_can.h
+.\obj\can.o: ..\Project\inc/hw_ints.h
+.\obj\can.o: ..\Project\inc/hw_nvic.h
+.\obj\can.o: ..\Project\inc/hw_memmap.h
+.\obj\can.o: ..\Project\inc/hw_sysctl.h
+.\obj\can.o: ..\Project\inc/hw_types.h
+.\obj\can.o: ..\Project\driverlib/can.h
+.\obj\can.o: ..\Project\driverlib/debug.h
+.\obj\can.o: ..\Project\driverlib/interrupt.h

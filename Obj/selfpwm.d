@@ -1,0 +1,9 @@
+.\obj\selfpwm.o: App\selfPWM.c
+.\obj\selfpwm.o: App\selfPWM.h
+.\obj\selfpwm.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\selfpwm.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\selfpwm.o: ..\Project\inc/hw_memmap.h
+.\obj\selfpwm.o: ..\Project\driverlib/gpio.h
+.\obj\selfpwm.o: ..\Project\driverlib/pin_map.h
+.\obj\selfpwm.o: ..\Project\driverlib/pwm.h
+.\obj\selfpwm.o: ..\Project\driverlib/sysctl.h

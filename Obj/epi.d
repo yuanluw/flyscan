@@ -1,0 +1,11 @@
+.\obj\epi.o: driverlib\epi.c
+.\obj\epi.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\epi.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\epi.o: ..\Project\inc/hw_epi.h
+.\obj\epi.o: ..\Project\inc/hw_ints.h
+.\obj\epi.o: ..\Project\inc/hw_memmap.h
+.\obj\epi.o: ..\Project\inc/hw_sysctl.h
+.\obj\epi.o: ..\Project\inc/hw_types.h
+.\obj\epi.o: ..\Project\driverlib/debug.h
+.\obj\epi.o: ..\Project\driverlib/epi.h
+.\obj\epi.o: ..\Project\driverlib/interrupt.h

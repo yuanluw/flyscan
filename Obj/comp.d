@@ -1,0 +1,10 @@
+.\obj\comp.o: driverlib\comp.c
+.\obj\comp.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\comp.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\comp.o: ..\Project\inc/hw_comp.h
+.\obj\comp.o: ..\Project\inc/hw_ints.h
+.\obj\comp.o: ..\Project\inc/hw_memmap.h
+.\obj\comp.o: ..\Project\inc/hw_types.h
+.\obj\comp.o: ..\Project\driverlib/comp.h
+.\obj\comp.o: ..\Project\driverlib/debug.h
+.\obj\comp.o: ..\Project\driverlib/interrupt.h

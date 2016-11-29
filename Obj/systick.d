@@ -1,0 +1,9 @@
+.\obj\systick.o: driverlib\systick.c
+.\obj\systick.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\systick.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\systick.o: ..\Project\inc/hw_ints.h
+.\obj\systick.o: ..\Project\inc/hw_nvic.h
+.\obj\systick.o: ..\Project\inc/hw_types.h
+.\obj\systick.o: ..\Project\driverlib/debug.h
+.\obj\systick.o: ..\Project\driverlib/interrupt.h
+.\obj\systick.o: ..\Project\driverlib/systick.h

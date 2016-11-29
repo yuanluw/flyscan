@@ -1,0 +1,11 @@
+.\obj\uart.o: driverlib\uart.c
+.\obj\uart.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\uart.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\uart.o: ..\Project\inc/hw_ints.h
+.\obj\uart.o: ..\Project\inc/hw_memmap.h
+.\obj\uart.o: ..\Project\inc/hw_sysctl.h
+.\obj\uart.o: ..\Project\inc/hw_types.h
+.\obj\uart.o: ..\Project\inc/hw_uart.h
+.\obj\uart.o: ..\Project\driverlib/debug.h
+.\obj\uart.o: ..\Project\driverlib/interrupt.h
+.\obj\uart.o: ..\Project\driverlib/uart.h

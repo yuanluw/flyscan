@@ -1,0 +1,9 @@
+.\obj\mpu.o: driverlib\mpu.c
+.\obj\mpu.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\mpu.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\mpu.o: ..\Project\inc/hw_ints.h
+.\obj\mpu.o: ..\Project\inc/hw_nvic.h
+.\obj\mpu.o: ..\Project\inc/hw_types.h
+.\obj\mpu.o: ..\Project\driverlib/debug.h
+.\obj\mpu.o: ..\Project\driverlib/interrupt.h
+.\obj\mpu.o: ..\Project\driverlib/mpu.h

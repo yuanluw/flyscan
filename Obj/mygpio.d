@@ -1,0 +1,11 @@
+.\obj\mygpio.o: App\mygpio.c
+.\obj\mygpio.o: App\mygpio.h
+.\obj\mygpio.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\mygpio.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\mygpio.o: ..\Project\inc/hw_types.h
+.\obj\mygpio.o: ..\Project\inc/tm4c123gh6pz.h
+.\obj\mygpio.o: ..\Project\driverlib/gpio.h
+.\obj\mygpio.o: ..\Project\inc/hw_memmap.h
+.\obj\mygpio.o: ..\Project\driverlib/sysctl.h
+.\obj\mygpio.o: ..\Project\driverlib/interrupt.h
+.\obj\mygpio.o: ..\Project\driverlib/rom.h

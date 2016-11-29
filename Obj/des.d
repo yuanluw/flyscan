@@ -1,0 +1,10 @@
+.\obj\des.o: driverlib\des.c
+.\obj\des.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\des.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\des.o: ..\Project\inc/hw_des.h
+.\obj\des.o: ..\Project\inc/hw_ints.h
+.\obj\des.o: ..\Project\inc/hw_memmap.h
+.\obj\des.o: ..\Project\inc/hw_types.h
+.\obj\des.o: ..\Project\driverlib/debug.h
+.\obj\des.o: ..\Project\driverlib/des.h
+.\obj\des.o: ..\Project\driverlib/interrupt.h

@@ -1,0 +1,12 @@
+.\obj\aes.o: driverlib\aes.c
+.\obj\aes.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\aes.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\aes.o: ..\Project\inc/hw_aes.h
+.\obj\aes.o: ..\Project\inc/hw_ccm.h
+.\obj\aes.o: ..\Project\inc/hw_ints.h
+.\obj\aes.o: ..\Project\inc/hw_memmap.h
+.\obj\aes.o: ..\Project\inc/hw_nvic.h
+.\obj\aes.o: ..\Project\inc/hw_types.h
+.\obj\aes.o: ..\Project\driverlib/aes.h
+.\obj\aes.o: ..\Project\driverlib/debug.h
+.\obj\aes.o: ..\Project\driverlib/interrupt.h

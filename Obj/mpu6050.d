@@ -1,0 +1,15 @@
+.\obj\mpu6050.o: App\MPU6050.c
+.\obj\mpu6050.o: App\mpu6050.h
+.\obj\mpu6050.o: App\mygpio.h
+.\obj\mpu6050.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\mpu6050.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\mpu6050.o: ..\Project\inc/hw_types.h
+.\obj\mpu6050.o: ..\Project\inc/hw_memmap.h
+.\obj\mpu6050.o: ..\Project\driverlib/gpio.h
+.\obj\mpu6050.o: ..\Project\driverlib/rom.h
+.\obj\mpu6050.o: App\sysclock.h
+.\obj\mpu6050.o: ..\Project\inc/tm4c123gh6pz.h
+.\obj\mpu6050.o: ..\Project\driverlib/sysctl.h
+.\obj\mpu6050.o: ..\Project\driverlib/timer.h
+.\obj\mpu6050.o: ..\Project\driverlib/interrupt.h
+.\obj\mpu6050.o: ..\Project\driverlib/fpu.h

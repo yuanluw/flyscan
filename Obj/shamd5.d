@@ -1,0 +1,11 @@
+.\obj\shamd5.o: driverlib\shamd5.c
+.\obj\shamd5.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\shamd5.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\shamd5.o: ..\Project\inc/hw_ints.h
+.\obj\shamd5.o: ..\Project\inc/hw_memmap.h
+.\obj\shamd5.o: ..\Project\inc/hw_nvic.h
+.\obj\shamd5.o: ..\Project\inc/hw_shamd5.h
+.\obj\shamd5.o: ..\Project\inc/hw_types.h
+.\obj\shamd5.o: ..\Project\driverlib/debug.h
+.\obj\shamd5.o: ..\Project\driverlib/interrupt.h
+.\obj\shamd5.o: ..\Project\driverlib/shamd5.h

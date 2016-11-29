@@ -1,0 +1,12 @@
+.\obj\emac.o: driverlib\emac.c
+.\obj\emac.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\emac.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\emac.o: ..\Project\inc/hw_ints.h
+.\obj\emac.o: ..\Project\inc/hw_memmap.h
+.\obj\emac.o: ..\Project\inc/hw_types.h
+.\obj\emac.o: ..\Project\inc/hw_emac.h
+.\obj\emac.o: ..\Project\driverlib/debug.h
+.\obj\emac.o: ..\Project\driverlib/emac.h
+.\obj\emac.o: ..\Project\driverlib/sysctl.h
+.\obj\emac.o: ..\Project\driverlib/interrupt.h
+.\obj\emac.o: ..\Project\driverlib/sw_crc.h

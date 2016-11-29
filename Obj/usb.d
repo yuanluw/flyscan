@@ -1,0 +1,13 @@
+.\obj\usb.o: driverlib\usb.c
+.\obj\usb.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\usb.o: D:\program\ARM\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\usb.o: ..\Project\inc/hw_ints.h
+.\obj\usb.o: ..\Project\inc/hw_memmap.h
+.\obj\usb.o: ..\Project\inc/hw_types.h
+.\obj\usb.o: ..\Project\inc/hw_sysctl.h
+.\obj\usb.o: ..\Project\inc/hw_usb.h
+.\obj\usb.o: ..\Project\driverlib/debug.h
+.\obj\usb.o: ..\Project\driverlib/interrupt.h
+.\obj\usb.o: ..\Project\driverlib/sysctl.h
+.\obj\usb.o: ..\Project\driverlib/udma.h
+.\obj\usb.o: ..\Project\driverlib/usb.h
